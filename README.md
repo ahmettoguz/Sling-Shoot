@@ -1,7 +1,7 @@
 <h1 align="center">Sling Shoot</h1> <br>
 
 <div align="center">
-    <img width=150 src="">
+    <img width=150 src="/favicon.ico">
 </div>
 
 <br/>
@@ -20,6 +20,7 @@
 
 <br/>
 
+https://user-images.githubusercontent.com/101711642/226112656-b8526383-1358-4d7e-b8f8-e42bc375c222.mp4
 
 <br/>
 
