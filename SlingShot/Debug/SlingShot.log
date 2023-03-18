@@ -1,0 +1,3 @@
+﻿  SlingShot.cpp
+C:\Users\lenovo\Desktop\ahmet\C Programming\Projects\SlingShot\SlingShot\SlingShot.cpp(1489,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SlingShot.vcxproj -> C:\Users\lenovo\Desktop\ahmet\C Programming\Projects\SlingShot\Debug\SlingShot.exe
